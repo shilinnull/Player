@@ -3,7 +3,6 @@
 
 *~
 *.autosave
-*.a
 *.core
 *.moc
 *.o
@@ -56,15 +55,9 @@ CMakeLists.txt.user*
 *.idb
 *.ilk
 *.pdb
-*.sln
-*.suo
-*.vcproj
-*vcproj.*.*.user
 *.ncb
 *.sdf
 *.opensdf
-*.vcxproj
-*vcxproj.*
 
 # MinGW generated files
 *.Debug
@@ -75,7 +68,6 @@ CMakeLists.txt.user*
 
 # Binaries
 # --------
-*.exe
 
 # Directories with generated files
 .moc/
